@@ -19,13 +19,3 @@ Below figure is a arithmetic tree
 1.All the required steps to compile and run the program is in the Hw3_opensouce.pdf  
 2.gcc version must be at least 8.1.0  
 
-
-
-```python
-
-```
-
-
-```python
-
-```
